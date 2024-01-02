@@ -8,11 +8,11 @@
 
 ##### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,css,html,js,ts,sass,vue,next,nestjs,angular,tailwind,graphql,redux,nodejs,threejs,webpack&perline=3)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Frontend](https://skillicons.dev/icons?i=react,css,html,js,ts,sass,vue,next,nestjs,angular,tailwind,graphql,redux,nodejs,threejs,webpack&perline=5)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ##### Backend
 
-[![Backend](https://skillicons.dev/icons?i=python,rust,golang,redis,postgres,mongodb,mysql,nodejs,ruby,express,django,java,spring,nodejs,flask,laravel,php,nginx,lua,cpp,cs,c,kotlin,&perline=3)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Backend](https://skillicons.dev/icons?i=python,rust,golang,redis,postgres,mongodb,mysql,nodejs,ruby,express,django,java,spring,nodejs,flask,laravel,php,nginx,lua,cpp,cs,c,kotlin,&perline=5)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
