@@ -1,4 +1,3 @@
-- 📦 I'm currently working on Byte, a Discord bot
 - 🌱 I'm currently learning Rust and Ruby
 - 🗣 I speak English, Indonesian, and German
 
